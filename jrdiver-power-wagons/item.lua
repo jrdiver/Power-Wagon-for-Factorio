@@ -72,7 +72,6 @@ genCargoWagons {
     {"processing-unit", 5},
     {"copper-cable", 40},
     {"steel-plate", 40},
-    {"iron-plate", 20}
   },
   tech = {
       number = 3,
